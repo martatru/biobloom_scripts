@@ -10,11 +10,6 @@ BioBloom is a research project aimed at exploring microalgae as a rich source of
 
 ---
 
-## Repository Contents
-
-This repository contains Python scripts and related files used for analyzing proteomic, genomic and lipidomic data from three microalgae species. 
----
-
 ## Requirements
 
 - Python 3.x
